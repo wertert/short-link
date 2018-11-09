@@ -1,0 +1,30 @@
+// html {
+//   font-size: 62.5%;
+// }
+
+// body {
+//   background: #f2f2f2;
+//   color: #555555;
+//   font-family: Helvetica, Arial, sans-serif;
+//   font-size: 1.6rem;
+// }
+
+// input, button, select {
+//   font-size: 1.3rem;
+// }
+
+// h1 {
+//   font-weight: 300;
+//   font-size: 2.4rem;
+// }
+
+// @import './components/link';
+
+@import './variables';
+@import './base';
+@import './components/boxed-view';
+@import './components/button';
+@import './components/header';
+@import './components/page-content';
+@import './components/checkbox';
+@import './components/item';
